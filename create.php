@@ -46,7 +46,7 @@
     
     <div class = "container">
         <div class="row">
-            <a href = "" class = "navbar-brand">SuMMit</a>
+            <a href = "" class = "navbar-brand">Evaluator</a>
 
             <button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
                 <span class = "icon-bar"></span>

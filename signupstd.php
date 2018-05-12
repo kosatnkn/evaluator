@@ -34,7 +34,7 @@ $arrField = $UserLogic->getField();
 <div class = "navbar navbar-default navbar-fixed-top">
     <div class = "container">
         <span class= "navbar-brand pull-left"><span class="custom-badge-std"><span class="glyphicon glyphicon-fire"></span></span>&nbsp;&nbsp;Sign Up a Student</span>
-        <span class = "navbar-brand pull-right">SuMMit</span>
+        <span class = "navbar-brand pull-right">Evaluator</span>
     </div>
 </div>
 <!-- /Header ------------------------------------------------------------------------------------------------------------------ -->

@@ -46,7 +46,7 @@ $CommonLogic = new CommonLogic();
 	<div class = "navbar navbar-default navbar-fixed-top">
 		<div class = "container">
 		
-		<a href = "" class = "navbar-brand">SuMMit</a>
+		<a href = "" class = "navbar-brand">Evaluator</a>
 
 		<button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
                     <span class = "icon-bar"></span>

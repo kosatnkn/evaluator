@@ -26,7 +26,7 @@ class DBAdapter
         $strServer = "localhost";
         $strUser = "root";
         $strPassword = "";
-        $strDBName = "exam";
+        $strDBName = "evaluator";
 
         //Establish connection
         $resConnection = mysql_connect($strServer, $strUser, $strPassword) or die(mysql_error());
