@@ -34,7 +34,7 @@ $arrField = $UserLogic->getField();
 <div class = "navbar navbar-default navbar-fixed-top">
     <div class = "container">
         <span class= "navbar-brand pull-left"><span class="custom-badge-ins"><span class="glyphicon glyphicon-leaf"></span></span>&nbsp;&nbsp;Sign Up an Instructor</span>
-        <span class = "navbar-brand pull-right">Evaluator</span>
+        <span class = "navbar-brand pull-right">SuMMit</span>
     </div>
 </div>
 <!-- /Header ------------------------------------------------------------------------------------------------------------------ -->
@@ -198,42 +198,7 @@ $arrField = $UserLogic->getField();
                     </div>
                 <!-- /DOB ------------------------------------------------------------------------- -->
                 </div>
-                
-                <div class="row">
-                <!-- Marital Status --------------------------------------------------------------------------- -->
-                        <div class="col-md-2 form-group">
-                                <label for="rdoMarital"><small>Marital Status: </small></label>
-                        </div>
 
-                        <div class="col-md-10 form-group">
-                                <div class="radio-inline">
-                                        <label>
-                                                <input type="radio" name="rdoMarital" id="rdoMarital" name="rdoMarital" value="S">
-                                                Single
-                                        </label>
-                                </div>
-                                <div class="radio-inline">
-                                        <label>
-                                                <input type="radio" name="rdoMarital" id="rdoMarital" name="rdoMarital" value="M">
-                                                Married
-                                        </label>
-                                </div>
-                                <div class="radio-inline">
-                                        <label>
-                                                <input type="radio" name="rdoMarital" id="rdoMarital" name="rdoMarital" value="W">
-                                                Widowed
-                                        </label>
-                                </div>
-                                <div class="radio-inline">
-                                        <label>
-                                                <input type="radio" name="rdoMarital" id="rdoMarital" name="rdoMarital" value="D">
-                                                Divorsed
-                                        </label>
-                                </div>
-                        </div>
-                <!-- /Marital Status ------------------------------------------------------------------------- -->
-                </div>
-                
                 <div class="row">
                 <!-- Email --------------------------------------------------------------------------- -->
                 <div class="col-md-2 form-group">
@@ -291,27 +256,27 @@ $arrField = $UserLogic->getField();
                 <!-- /SubjectList ------------------------------------------------------------------------ -->
                 
             </form>
-                
-                <div class="row">     
+
+                <div class="row">
                 <!-- Subjects -------------------------------------------------------------------------- -->
                 <div class="col-md-2 form-group">
                         <label><small>Subjects </small></label>
                 </div>
 
                 <div class="col-md-6 form-group">
-                    
+
                     <div class="form-group" id="divSubjects">
 
                         Select a Department from above to view Subjects
 
                     </div>
-                    
+
                 </div>
-                
+
                 <div class="col-md-4 form-group">&nbsp;</div>
                 <!-- /Subjects ------------------------------------------------------------------------- -->
                 </div>
-               
+
                 <div class="row">
                     <div class="form-group page-header">
                         &nbsp;

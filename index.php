@@ -51,7 +51,7 @@ $_SESSION["usrAppr"] = "";
 					</div>
 					
 					<div class="form-group">
-                                            <input type="text" class="form-control" placeholder="ID Number" id="txtID" name="txtID" maxlength="10">
+                        <input type="text" class="form-control" placeholder="ID Number" id="txtID" name="txtID" maxlength="10">
 					</div>
 					
 					<div class="form-group">
@@ -99,7 +99,7 @@ $_SESSION["usrAppr"] = "";
 				<div class="row">
 					<div class="col-md-12">
 						<div class="form-group">
-                                                    <a href="signupstd.php" class="btn btn-success btn-md btn-block"><span class="glyphicon glyphicon-fire"></span>&nbsp;&nbsp;I am a Student&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                            <a href="signupstd.php" class="btn btn-success btn-md btn-block"><span class="glyphicon glyphicon-fire"></span>&nbsp;&nbsp;I am a Student&nbsp;&nbsp;&nbsp;&nbsp;</a>
 						</div>
 					</div>
 				</div>
@@ -107,7 +107,7 @@ $_SESSION["usrAppr"] = "";
 				<div class="row">
 					<div class="col-md-12">
 						<div class="form-group">
-                                                    <a href="signupins.php" class="btn btn-danger btn-md btn-block"><span class="glyphicon glyphicon-leaf"></span>&nbsp;&nbsp;I am an Instructor</a>
+                            <a href="signupins.php" class="btn btn-danger btn-md btn-block"><span class="glyphicon glyphicon-leaf"></span>&nbsp;&nbsp;I am an Instructor</a>
 						</div>
 					</div>
 				</div>
